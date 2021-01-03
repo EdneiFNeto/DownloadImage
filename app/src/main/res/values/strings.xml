@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">UpdateApp</string>
+    <string name="hint_image">URL</string>
+    <string name="download_image">Download image</string>
+    <string name="todo">TODO</string>
+    <string name="save_image">Save Image</string>
+    <string name="content_description_favorite">galeria</string>
+    <string name="galery">Galeria</string>
+</resources>
