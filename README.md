@@ -8,8 +8,8 @@ Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem
 
 ## Screenshots
 
-![image](screenshots/image.png "Exibindo primeira imagem")
-![list_image](screenshots/list_image.png "Listando imagens")
+![image](screenshots/image.jpg "Exibindo primeira imagem")
+![list_image](screenshots/list_image.jpg "Listando imagens")
 
 ## Lista de Bibliotecas utilizadas
 
