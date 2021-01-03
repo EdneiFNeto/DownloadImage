@@ -58,23 +58,6 @@ fun download(imagem: String?): Bitmap? {
 }
 ```
 
-### Download da Imagem
-
-```kotlin
-fun download(imagem: String?): Bitmap? {
-  try {
-    var url = URL(imagem)
-    var urlConnection = url.openConnection() as HttpURLConnection
-    urlConnection.connect()
-    var inputStream = urlConnection.inputStream
-    return BitmapFactory.decodeStream(inputStream)
-  }catch (e: Exception){
-    e.printStackTrace()
-  }
-  return null
-}
-```
-
 ### Salvar Imagem
 
 ```kotlin
