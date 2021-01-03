@@ -11,12 +11,11 @@ Abaixo tem uma imagem animada exibindo todo o passo a passo de como acessar a fu
 
 Componentes utilizados do material Design :
 
-- [Text fields][0] - Text fields
+- [Text fields](https://material.io/components/text-fields) - Text fields
 - [Buttons][1] - Buttons
 - [App bars: top][2] - App bars: top
 - [Cards][3] - Cards
 
-[0]: https://material.io/components/text-fields
 [1]: https://material.io/components/buttons
 [2]: https://material.io/components/app-bars-top
 [3]: https://material.io/components/cards
