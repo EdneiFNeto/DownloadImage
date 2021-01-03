@@ -7,25 +7,37 @@ Abaixo tem uma imagem animada exibindo todo o passo a passo de como acessar a fu
 
 ![image1](screenshots/image_animada.gif "Gif animado")
 
-## Lista de Bibliotecas utilizadas
+## Material Design
 
-- [Foundation][0] - Components for core system capabilities, Kotlin extensions and support for
-  multidex and automated testing.
-  - [AppCompat][1] - Degrade gracefully on older versions of Android.
-  - [Android KTX][2] - Write more concise, idiomatic Kotlin code.
-  - [Test][4] - An Android testing framework for unit and runtime UI tests.
-- [Architecture][5] - A collection of libraries that help you design robust, testable, and
-  maintainable apps. Start with classes for managing your UI component lifecycle and handling data
-  persistence.
-  - [Data Binding][6] - Declaratively bind observable data to UI elements.
-  - [Lifecycles][7] - Create a UI that automatically responds to lifecycle events.
-  - [LiveData][8] - Build data objects that notify views when the underlying database changes.
+Componentes utilizados do material Design :
 
-[0]: https://developer.android.com/jetpack/components
-[1]: https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat
-[2]: https://developer.android.com/kotlin/ktx
-[4]: https://developer.android.com/training/testing/
-[5]: https://developer.android.com/topic/libraries/architecture/room
-[6]: https://developer.android.com/topic/libraries/architecture/viewmodel
-[7]: https://developer.android.com/topic/libraries/architecture/workmanager
-[8]: https://developer.android.com/topic/libraries/architecture/workmanager
+[Text fields][0] - Text fields;
+
+- [Buttons][1] - Buttons;
+- [App bars: top][2] - App bars: top;
+- [Cards][3] - Cards;
+
+[0]: https://material.io/components/text-fields
+[1]: https://material.io/components/buttons
+[2]: https://material.io/components/app-bars-top
+[3]: https://material.io/components/cards
+
+## Bibliotecas utilizadas
+
+- [Recyclerview][4] - Como criar uma lista com o RecyclerView.
+
+## Referências
+
+- [Bitmap][5] - Bitmap
+- [BitmapFactory][6] - BitmapFactory
+- [URL][7] - URL
+- [URLConnection][8] - URLConnection
+
+[5]: https://developer.android.com/reference/android/graphics/Bitmap
+[6]: https://developer.android.com/reference/android/graphics/BitmapFactory
+[7]: https://developer.android.com/reference/java/net/URL
+[8]: https://developer.android.com/reference/java/net/URLConnection
+
+## Funções
+
+Funções realizadas pra baixar e salvar as imagens:
