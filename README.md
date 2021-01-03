@@ -1,6 +1,6 @@
 # Introdução
 
-A funcionalidade do aplicativo está em baixar imagens pela a URL de forma simples, o download das imagens é feita de forma automática, após ser realizado o download as imagens são gravadas dentro da pasta do aplicativo localizada em “Android/media/com.example.updateapp”.
+A funcionalidade do aplicativo está em baixar imagens pela a URL de forma simples, o salvamento das imagens é feita de forma automática, após ser realizado o download. Onde as imagens são gravadas dentro da pasta do aplicativo localizada em “Android/media/com.example.updateapp/file/download”.
 Abaixo tem uma imagem animada exibindo todo o passo a passo de como acessar a funcionalidade do app.
 
 ## Screenshots
