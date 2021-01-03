@@ -12,29 +12,20 @@ Abaixo tem uma imagem animada exibindo todo o passo a passo de como acessar a fu
 Componentes utilizados do material Design :
 
 - [Text fields](https://material.io/components/text-fields) - Text fields
-- [Buttons][1] - Buttons
-- [App bars: top][2] - App bars: top
-- [Cards][3] - Cards
-
-[1]: https://material.io/components/buttons
-[2]: https://material.io/components/app-bars-top
-[3]: https://material.io/components/cards
+- [Buttons](https://material.io/components/buttons) - Buttons
+- [App bars: top](https://material.io/components/app-bars-top) - App bars: top
+- [Cards](https://material.io/components/cards) - Cards
 
 ## Bibliotecas utilizadas
 
-- [Recyclerview][4] - Como criar uma lista com o RecyclerView.
+- [Recyclerview](https://developer.android.com/guide/topics/ui/layout/recyclerview) - Como criar uma lista com o RecyclerView.
 
 ## Referências
 
-- [Bitmap][5] - Bitmap
-- [BitmapFactory][6] - BitmapFactory
-- [URL][7] - URL
-- [URLConnection][8] - URLConnection
-
-[5]: https://developer.android.com/reference/android/graphics/Bitmap
-[6]: https://developer.android.com/reference/android/graphics/BitmapFactory
-[7]: https://developer.android.com/reference/java/net/URL
-[8]: https://developer.android.com/reference/java/net/URLConnection
+- [Bitmap](https://developer.android.com/reference/android/graphics/Bitmap) - Bitmap
+- [BitmapFactory](https://developer.android.com/reference/android/graphics/BitmapFactory) - BitmapFactory
+- [URL](https://developer.android.com/reference/java/net/URL) - URL
+- [URLConnection](https://developer.android.com/reference/java/net/URLConnection) - URLConnection
 
 ## Funções
 
