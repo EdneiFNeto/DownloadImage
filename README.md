@@ -1,10 +1,7 @@
-# DownloadImage
+# Introdução
 
-Realizar o download das imagens e salvar dentro no aplicativo
-
-## Introduction
-
-Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.
+A funcionalidade do aplicativo está em baixar imagens pela a URL de forma simples, o download das imagens é feita de forma automática, após ser realizado o download as imagens são gravadas dentro da pasta do aplicativo localizada em “Android/media/com.example.updateapp”.
+Abaixo tem uma imagem animada exibindo todo o passo a passo de como acessar a funcionalidade do app.
 
 ## Screenshots
 
