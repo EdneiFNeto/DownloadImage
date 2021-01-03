@@ -13,12 +13,18 @@ Lista de Bibliotecas utilizadas
   * [AppCompat][1] - Degrade gracefully on older versions of Android.
   * [Android KTX][2] - Write more concise, idiomatic Kotlin code.
   * [Test][4] - An Android testing framework for unit and runtime UI tests.
-* [Architecture][10] - A collection of libraries that help you design robust, testable, and
+* [Architecture][5] - A collection of libraries that help you design robust, testable, and
   maintainable apps. Start with classes for managing your UI component lifecycle and handling data
   persistence.
-  * [Data Binding][11] - Declaratively bind observable data to UI elements.
-  * [Lifecycles][12] - Create a UI that automatically responds to lifecycle events.
-  * [LiveData][13] - Build data objects that notify views when the underlying database changes.
-  * [Navigation][14] - Handle everything needed for in-app navigation.
-  * [Room][16] - Access your app's SQLite database with in-app objects and compile-time checks.
-  * [ViewModel][17] - Store UI-related data that isn't destroyed on app rotations. Easily schedule
+  * [Data Binding][6] - Declaratively bind observable data to UI elements.
+  * [Lifecycles][7] - Create a UI that automatically responds to lifecycle events.
+  * [LiveData][8] - Build data objects that notify views when the underlying database changes.
+
+[0]: https://developer.android.com/jetpack/components
+[1]: https://developer.android.com/topic/libraries/support-library/packages#v7-appcompat
+[2]: https://developer.android.com/kotlin/ktx
+[4]: https://developer.android.com/training/testing/
+[5]: https://developer.android.com/topic/libraries/architecture/room
+[6]: https://developer.android.com/topic/libraries/architecture/viewmodel
+[7]: https://developer.android.com/topic/libraries/architecture/workmanager
+[8]: https://developer.android.com/topic/libraries/architecture/workmanager
